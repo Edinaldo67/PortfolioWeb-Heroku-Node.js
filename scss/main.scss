@@ -1,10 +1,11 @@
 @import "config";
+@import "menu";
 
 * {
   box-sizing: border-box;
 }
 
-bode {
+body {
   @include background;
   background: $primary-color;
   color: #fff;
