@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Edinaldo67/portfolioWeb#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "node-sass": "^4.11.0"
   }
 }
