@@ -4,7 +4,7 @@
   "description": "responsive portfolio website",
   "main": "index.html",
   "scripts": {
-    "start": "node index \"npm run server\" \"npm start\"",
+    "start": "node server.js",
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "repository": {
