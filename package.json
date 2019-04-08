@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Edinaldo67/portfolioWeb/issues"
   },
-  "homepage": "https://github.com/Edinaldo67/portfolioWeb",
+  "homepage": "https://Edinaldo67.github.io/portfolioWeb",
   "dependencies": {
     "express": "^4.16.4",
     "gh-pages": "^2.0.1",
