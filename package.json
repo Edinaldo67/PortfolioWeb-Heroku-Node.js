@@ -19,7 +19,7 @@
   },
   "homepage": "https://Edinaldo67.github.io/portfolioWeb",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "gh-pages": "^2.0.1",
     "node": "^11.12.0",
     "node-sass": "^4.11.0"
